@@ -15,6 +15,9 @@ Follow the full steps below, having created an ionic app, of course
 
 ### 1. Download
 Download ionic-topscoller
+```bash
+  bower install ionic-topscroller
+```
 
 ### 2. Add javascript file to index.html
 ```bash
